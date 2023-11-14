@@ -1,5 +1,6 @@
 # UTS_PCD
 KESIMPULAN
+
 Dari program soal UTS yang telah diperbaiki itu memberikan pemahaman dan contoh implementasi dalam pengolahan citra menggunakan Python, khususnya dengan menggunakan modul (penggunaan library) seperti NumPy, OpenCV, dan Matplotlib.
 Selain itu program tersebut juga banyak memaparkan tentang histogram. Histogram citra (image histogram) merupakan informasi yang penting mengenai isi citra digital. Histogram citra adalah grafik yang menggambarkan penyebaran nilai-nilai intensitas pixel dari suatu citra atau bagian tertentu di dalam citra. Dari sebuah histogram dapat diketahui frekuensi kemunculan nisbi (relative) dari intensitas pada citra tersebut. Histogram juga dapat menunjukkan banyak hal tentang kecerahan (brightness) dan kontras (contrast) dari sebuah gambar. Karena itu, histogram adalah alat bantu yang berharga dalam pekerjaan pengolahan citra baik secara kualitatif maupun kuantitatif.
  Program tersebut menjelaskan tentang:
@@ -27,3 +28,4 @@ Dalam analisis citra greyscale, histogram intensitas piksel digunakan untuk meny
    - Penggunaan berbagai modul dan fungsi visualisasi seperti `cv_imshow` dan `plt.show()` untuk menyajikan hasil eksplorasi (image) dengan jelas.
 Integrasi visualisasi merujuk pada penggabungan atau penyatuan berbagai teknik visualisasi dalam konteks analisis atau pemahaman data. Dalam konteks pengolahan citra, integrasi visualisasi mengacu pada penggunaan metode visual untuk menggabungkan informasi dari berbagai aspek atau representasi citra. Hal ini dapat melibatkan penyatuan hasil analisis statistik, histogram, transformasi citra, atau analisis saluran warna dalam satu tampilan visual yang holistik.
 
+Link Yt : https://youtu.be/-Qp-pl3IzK0
